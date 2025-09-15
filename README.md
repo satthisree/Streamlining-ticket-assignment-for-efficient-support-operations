@@ -1,7 +1,6 @@
 <h1 style="text-align:center; color:white; background:#222; padding:10px; border-radius:8px;">
   ServiceNow Report
 </h1>
-
 <h2 style="text-align:center; color:white; background:#222; padding:10px; border-radius:8px;">
   Project Title : Streamlining ticket assignment for efficient support operations
 </h2>
